@@ -17,4 +17,6 @@ public class Git {
 	// 自定义方法
     public void test() {}
 	
+    public void sleep() {}
+	
 }
