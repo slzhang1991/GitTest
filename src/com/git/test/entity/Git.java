@@ -23,11 +23,7 @@ public class Git {
     
     // 自定义方法
     public void sleep() {
-<<<<<<< HEAD
-    	
-=======
-        
->>>>>>> branch 'master' of https://github.com/slzhang1991/GitTest.git
+
     }
 	
 }
