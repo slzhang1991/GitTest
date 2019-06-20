@@ -12,12 +12,18 @@ public class Git {
 	}
 
     // 自定义方法
-	public void app() {}
+	public void app() {
+		
+	}
 
 	// 自定义方法
-    public void test() {}
+    public void test() {
+    	
+    }
     
     // 自定义方法
-    public void sleep() {}
+    public void sleep() {
+    	
+    }
 	
 }
