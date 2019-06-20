@@ -1,6 +1,6 @@
 package com.git.test.entity;
 
-// Git实体类用于测试
+// Git测试类
 public class Git {
 	/**
 	 * 主方法
